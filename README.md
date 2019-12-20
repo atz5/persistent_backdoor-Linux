@@ -9,5 +9,5 @@
 
 # Usage
 -------
-- python create.py <or> python3 create.py
+- python create.py or python3 create.py
 
