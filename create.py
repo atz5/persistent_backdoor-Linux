@@ -1,4 +1,5 @@
-import marshal
+import marshal,subprocess
+subprocess.call(["clear"])
 a='\n'
 print(' ____  _____ ____  ____  _  ____  _____  ____  _      ____  _____')
 print('/  __\/  __//  __\/ ___\/ \/ ___\/__ __\/  _ \/ \  /|/   _\/  __/')
