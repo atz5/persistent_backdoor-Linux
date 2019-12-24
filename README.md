@@ -1,10 +1,9 @@
 # Persistent_backdoor(Ubuntu)
 -----------------------------
-- Password is [ask me <at.z.at.z.x@gmail.com>]
+- Persistence backdoor for ubuntu
 
 # Description
 -------------
-- Persistence backdoor for ubuntu
 - Work on python3
 
 # Usage
