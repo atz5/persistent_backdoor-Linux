@@ -1,6 +1,6 @@
 # Persistent_backdoor(Ubuntu)
 -----------------------------
-- Persistence backdoor for ubuntu
+- Persistence backdoor for Linux
 - Password is [ask to at.z.at.z.x@gmail.com]
 
 # Description
