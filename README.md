@@ -1,7 +1,7 @@
 # Persistent_backdoor(Linux)
 -----------------------------
 - Persistence backdoor for Linux
-- Password is [ask to at.z.at.z.x@gmail.com]
+- Password => atz
 
 # Description
 -------------
